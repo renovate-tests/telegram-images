@@ -31,7 +31,7 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-jersey')
 	compile('org.codehaus.groovy:groovy')
 
-	compile 'com.github.rubenlagus:TelegramBots:v2.3.5'
+	compile 'com.github.rubenlagus:TelegramBots:2.4.4.5'
 
 	testCompile "org.spockframework:spock-core:1.0-groovy-2.4"
 	// optional dependencies for using Spock
